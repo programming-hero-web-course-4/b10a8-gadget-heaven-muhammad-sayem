@@ -1,0 +1,277 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "iPhone 13 Pro Max",
+        "product_image": "https://i.ibb.co.com/HgB9S3h/photo1.jpg",
+        "category": "Phones",
+        "price": 999.99,
+        "description": "Apple’s premium smartphone with a powerful camera system and long battery life.",
+        "Specification": [
+            "6.7-inch Super Retina XDR display",
+            "128GB Storage",
+            "A15 Bionic chip",
+            "Triple 12MP camera system",
+            "5G connectivity"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 2,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/ykLXKBK/photo2.jpg",
+        "category": "Laptops",
+        "price": 1199.99,
+        "description": "A sleek ultrabook with a high-resolution display, perfect for business and creative tasks.",
+        "Specification": [
+            "Intel Core i7-1185G7",
+            "16GB RAM",
+            "512GB SSD",
+            "13.4-inch 4K Ultra HD+ display",
+            "Intel Iris Xe Graphics"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 3,
+        "product_title": "Sony WF-1000XM4 Wireless Earbuds",
+        "product_image": "https://i.ibb.co.com/DMYJB6P/photo3.webp",
+        "category": "Accessories",
+        "price": 149.99,
+        "description": "Premium wireless earbuds with active noise cancellation and exceptional sound quality.",
+        "Specification": [
+            "Bluetooth 5.2",
+            "Active Noise Cancellation",
+            "Up to 24 hours battery life with case",
+            "IPX4 water resistance",
+            "Hi-Res Audio compatibility"
+        ],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": 4,
+        "product_title": "Acer Aspire 5",
+        "product_image": "https://i.ibb.co.com/0mBX60X/photo4.webp",
+        "category": "Laptops",
+        "price": 499.99,
+        "description": "A budget-friendly laptop with dependable performance for everyday tasks.",
+        "Specification": [
+            "AMD Ryzen 3 3200U",
+            "4GB RAM",
+            "128GB SSD",
+            "15.6-inch Full HD display",
+            "Up to 7.5 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.0
+    },
+    {
+        "product_id": 5,
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://i.ibb.co.com/r4QJFkN/photo12.jpg",
+        "category": "Headphones",
+        "price": 349.99,
+        "description": "Premium noise-canceling headphones with exceptional sound quality and long battery life.",
+        "Specification": [
+            "30 hours battery life",
+            "Quick charge feature (3 hours from 10 min)",
+            "Bluetooth 5.2",
+            "Adaptive Sound Control",
+            "Touch sensor controls"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 6,
+        "product_title": "Microsoft Surface Laptop Go 2",
+        "product_image": "https://i.ibb.co.com/3T52LRC/photo6.webp",
+        "category": "Laptops",
+        "price": 799.99,
+        "description": "A compact and versatile laptop with touchscreen capabilities, perfect for students and on-the-go work.",
+        "Specification": [
+            "Intel Core i5",
+            "8GB RAM",
+            "256GB SSD",
+            "12.4-inch PixelSense touchscreen",
+            "Intel UHD Graphics"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 7,
+        "product_title": "Ultimate Ears MEGABOOM 3",
+        "product_image": "https://i.ibb.co.com/3ftgphh/photo15.jpg",
+        "category": "Speakers",
+        "price": 199.99,
+        "description": "Portable, durable, and waterproof Bluetooth speaker with immersive 360° sound.",
+        "Specification": [
+            "20 hours of battery life",
+            "IP67 water and dust resistance",
+            "360° sound and deep bass",
+            "Magic Button for control",
+            "Wireless charging support"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 8,
+        "product_title": "Fitbit Versa 3",
+        "product_image": "https://i.ibb.co.com/QrZSGG7/photo7.jpg",
+        "category": "Accessories",
+        "price": 199.99,
+        "description": "A smartwatch with health monitoring and fitness tracking features, including GPS and heart rate monitoring.",
+        "Specification": [
+            "1.58-inch AMOLED display",
+            "Built-in GPS",
+            "Heart rate monitor",
+            "Up to 6 days battery life",
+            "Water-resistant up to 50m"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 9,
+        "product_title": "Apple MacBook Pro 16",
+        "product_image": "https://i.ibb.co.com/bLVFhVm/photo9.jpg",
+        "category": "Laptops",
+        "price": 2499.99,
+        "description": "A high-performance laptop designed for creative professionals, featuring a stunning Retina display and powerful M1 Pro chip.",
+        "Specification": [
+            "Apple M1 Pro chip",
+            "16GB RAM",
+            "512GB SSD",
+            "16-inch Retina display",
+            "Up to 21 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 10,
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/b6DKdv5/photo10.webp",
+        "category": "Laptops",
+        "price": 1099.99,
+        "description": "A premium 2-in-1 laptop with a high-resolution touch display, perfect for creative and business use.",
+        "Specification": [
+            "Intel Core i7",
+            "16GB RAM",
+            "512GB SSD",
+            "13.3-inch 4K OLED touchscreen",
+            "Intel Iris Xe Graphics"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 11,
+        "product_title": "JBL Charge 5",
+        "product_image": "https://i.ibb.co.com/h9XJZTW/photo11.jpg",
+        "category": "Speakers",
+        "price": 179.99,
+        "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
+        "Specification": [
+            "20 hours of battery life",
+            "IP67 waterproof and dustproof",
+            "Built-in power bank",
+            "Bluetooth 5.1",
+            "JBL PartyBoost feature"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 12,
+        "product_title": "Samsung Galaxy A52",
+        "product_image": "https://i.ibb.co.com/6ZPB4D7/photo5.jpg",
+        "category": "Phones",
+        "price": 299.99,
+        "description": "An affordable smartphone with a great display and solid camera for everyday use.",
+        "Specification": [
+            "6.5-inch Super AMOLED display",
+            "128GB Storage",
+            "Snapdragon 720G processor",
+            "Quad-camera setup (64MP main)",
+            "4G connectivity"
+        ],
+        "availability": true,
+        "rating": 4.3
+        
+    },
+    {
+        "product_id": 13,
+        "product_title": "Bose SoundLink Revolve+ II",
+        "product_image": "https://i.ibb.co.com/dLPtQbH/photo13.jpg",
+        "category": "Speakers",
+        "price": 299.99,
+        "description": "Portable 360° Bluetooth speaker with deep, immersive sound and long-lasting battery.",
+        "Specification": [
+            "Up to 17 hours battery life",
+            "Water-resistant (IPX4)",
+            "360° sound coverage",
+            "Built-in microphone",
+            "Connects to voice assistants"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 14,
+        "product_title": "Asus ROG Strix G15",
+        "product_image": "https://i.ibb.co.com/JHSq1mV/photo8.jpg",
+        "category": "Laptops",
+        "price": 1599.99,
+        "description": "A gaming laptop with powerful hardware and high refresh rate display for a seamless gaming experience.",
+        "Specification": [
+            "AMD Ryzen 9 5900HX",
+            "16GB RAM",
+            "512GB SSD",
+            "15.6-inch Full HD 300Hz display",
+            "NVIDIA GeForce RTX 3070"
+        ],
+        "availability": true,
+        "rating": 4.8
+        
+    },
+    {
+        "product_id": 15,
+        "product_title": "Beats Studio3 Wireless",
+        "product_image": "https://i.ibb.co.com/V37HHwR/photo14.jpg",
+        "category": "Headphones",
+        "price": 249.99,
+        "description": "Wireless over-ear headphones with noise cancellation and pure adaptive sound technology.",
+        "Specification": [
+            "Up to 22 hours battery life",
+            "Apple W1 chip",
+            "Noise-canceling",
+            "Bluetooth wireless",
+            "Fast Fuel charging"
+        ],
+        "availability": true,
+        "rating": 4.4
+     
+    },
+    {
+        "product_id": 16,
+        "product_title": "Sennheiser HD 660 S",
+        "product_image": "https://i.ibb.co.com/FXTgh1N/photo16.jpg",
+        "category": "Headphones",
+        "price": 499.99,
+        "description": "High-fidelity open-back headphones designed for audiophiles with exceptional sound detail.",
+        "Specification": [
+            "Open-back design",
+            "150 Ohm impedance",
+            "Enhanced frequency response",
+            "Detachable cable",
+            "Premium comfort for long listening"
+        ],
+        "availability": true,
+        "rating": 4.7
+    }
+]

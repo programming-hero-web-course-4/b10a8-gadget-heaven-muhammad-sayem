@@ -1,0 +1,22 @@
+[
+    {
+        "category": "Laptops",
+        "availability": true
+    },
+    {
+        "category": "Phones",
+        "availability": true
+    },
+    {
+        "category": "Speakers",
+        "availability": true
+    },
+    {
+        "category": "Headphones",
+        "availability": true
+    },
+    {
+        "category": "Accessories",
+        "availability": true
+    }
+]
